@@ -140,17 +140,3 @@ After successful completion of this project:
 The **Student Assistant Chatbot** is a practical and educational AI project that applies Natural Language Processing and expert system principles within the education domain. By using free tools and APIs, the project fulfills academic requirements while providing meaningful learning outcomes and real-world relevance.
 
 ---
-
-## Progress Log
-
-- 2026-02-26: Upgraded frontend UI (Phase 2)
-  - GPT-style chat interface
-  - Collapsible sidebar for conversation history
-  - Typing indicator
-  - Login popup (UI only)
-  - Conversation-based chat history
-  - Send button + Enter key functional
-  - New Chat button functional
-
-- 2026-03-05
-  - Integrated API
